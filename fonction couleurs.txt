@@ -1,0 +1,34 @@
+void Color(int couleurDuTexte,int couleurDeFond) // fonction d'affichage de couleurs
+{
+        HANDLE H=GetStdHandle(STD_OUTPUT_HANDLE);
+        SetConsoleTextAttribute(H,couleurDeFond*16+couleurDuTexte);
+}
+
+void afficherGrille()
+{
+    system("cls");
+    system ("color 2A");
+
+    printf("\n\n\n");
+    printf("\t\t\t\t   *********************************\n");
+    Sleep(800);
+    printf("\t\t\t\t\t\tOTHELLO");
+    Sleep(800);
+    printf("\n\t\t\t\t   *********************************\n");
+    Sleep(800);
+    printf("\n\t\t\t\t   *********************************\n");
+    Sleep(800);
+    //Color(11,3);
+    printf("\t\t\t\t\t\t1- JOUER");
+    Sleep(800);
+    printf("\n\t\t\t\t   *********************************\n");
+    Sleep(800);
+    printf("\t\t\t\t\t    2- REGLES DU JEU");
+    Sleep(800);
+    printf("\n\t\t\t\t   *********************************\n");
+    Sleep(800);
+    printf("\t\t\t\t\t\t3-QUITTER");
+    Sleep(800);
+    printf("\n\t\t\t\t   *********************************\n");
+
+}

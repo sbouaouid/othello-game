@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1613732198 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\board.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"board.h"
+
+1612971245 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\board.h
+
+1613898639 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"human_vs_human.h"
+	"human_vs_machine.h"
+
+1612985358 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\move.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+
+1612972561 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\move.h
+
+1613899360 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_human.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"board.h"
+	"move.h"
+	"human_vs_human.h"
+
+1613896926 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_human.h
+
+1612964747 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_stupid_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+	"move.h"
+	"human_vs_stupid_machine.h"
+
+1612985489 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_stupid_machine.h
+
+1612962867 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_medium_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+	"move.h"
+	"human_vs_stupid_machine.h"
+	"human_vs_medium_machine.h"
+
+1612960353 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_medium_machine.h
+
+1613901947 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_machine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"board.h"
+	"move.h"
+	"human_vs_machine.h"
+
+1613896871 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello try\human_vs_machine.h
+
+1613989285 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\board.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+
+1612971245 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\board.h
+
+1613978702 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\human_vs_human.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"board.h"
+	"move.h"
+	"human_vs_human.h"
+
+1612972561 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\move.h
+
+1613896926 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\human_vs_human.h
+
+1614004532 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\human_vs_machine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"board.h"
+	"move.h"
+	"human_vs_machine.h"
+
+1614004289 c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\human_vs_machine.h
+
+1613898639 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"human_vs_human.h"
+	"human_vs_machine.h"
+
+1614003359 source:c:\users\lenovo\desktop\gi s1\techniques de progr\projet\othello\move.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+
+1613989285 source:c:\users\dell\desktop\othello final\othello\board.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+
+1612971245 c:\users\dell\desktop\othello final\othello\board.h
+
+1614004532 source:c:\users\dell\desktop\othello final\othello\human_vs_machine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"board.h"
+	"move.h"
+	"human_vs_machine.h"
+
+1612972561 c:\users\dell\desktop\othello final\othello\move.h
+
+1614004289 c:\users\dell\desktop\othello final\othello\human_vs_machine.h
+
+1613898639 source:c:\users\dell\desktop\othello final\othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"human_vs_human.h"
+	"human_vs_machine.h"
+
+1613896926 c:\users\dell\desktop\othello final\othello\human_vs_human.h
+
+1614003359 source:c:\users\dell\desktop\othello final\othello\move.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+
+1614196498 source:c:\users\dell\desktop\othello final\othello\human_vs_human.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+	"human_vs_human.h"
+
+1613989285 source:c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\board.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+
+1612971245 c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\board.h
+
+1614429984 source:c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\human_vs_human.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+	"human_vs_human.h"
+
+1612972561 c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\move.h
+
+1613896926 c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\human_vs_human.h
+
+1614430024 source:c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\human_vs_machine.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+	"human_vs_machine.h"
+
+1614004289 c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\human_vs_machine.h
+
+1613898639 source:c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"human_vs_human.h"
+	"human_vs_machine.h"
+
+1614003359 source:c:\users\dell\desktop\ehtp\s1\techniques de programmation\othello projet et rapport\othello_bouaouid_elhabti_harit\othello\move.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"board.h"
+	"move.h"
+
